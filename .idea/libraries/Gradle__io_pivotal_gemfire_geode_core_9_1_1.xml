@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-core:9.1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not find io.pivotal.gemfire:geode-core:9.1.1." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-core/9.1.1/f6687b5cf932bda42bf312e28e9cb5d0e48f3082/geode-core-9.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-core/9.1.1/f96c0fa4830785d3265b3bec3e4d49b9ecd65c7d/geode-core-9.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
