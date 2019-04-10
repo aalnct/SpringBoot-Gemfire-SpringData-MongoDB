@@ -1,7 +1,7 @@
 package com.spring.boot.learning.service;
 
-import com.spring.boot.learning.DogDto;
-import com.spring.boot.learning.SpringBootException;
+import com.spring.boot.learning.model.DogDto;
+import com.spring.boot.learning.applicationexception.SpringBootException;
 import com.spring.boot.learning.dataservices.Dog;
 import com.spring.boot.learning.dataservices.DogRepository;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.spring.boot.learning;
+package com.spring.boot.learning.model;
 
 /**
  * Created by AmitAgarwal on 4/8/19.
